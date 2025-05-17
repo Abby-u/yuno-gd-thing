@@ -1,0 +1,3 @@
+assets = {}
+
+return assets
